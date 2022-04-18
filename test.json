@@ -1,8 +1,8 @@
 {
-  "mealServiceDietInfo": [
+  "acaInsTiInfo": [
     {
       "head": [
-        { "list_total_count": 416 },
+        { "list_total_count": 1632 },
         { "RESULT": { "CODE": "INFO-000", "MESSAGE": "정상 처리되었습니다." } }
       ]
     },
@@ -11,18 +11,28 @@
         {
           "ATPT_OFCDC_SC_CODE": "T10",
           "ATPT_OFCDC_SC_NM": "제주특별자치도교육청",
-          "SD_SCHUL_CODE": "9296071",
-          "SCHUL_NM": "애월초등학교",
-          "MMEAL_SC_CODE": "2",
-          "MMEAL_SC_NM": "중식",
-          "MLSV_YMD": "20200115",
-          "MLSV_FGR": "198",
-          "DDISH_NM": "한우쇠고기사골떡만두국1.5.6.10.13.<br/>따바오1.5.6.10.13.16.18.<br/>골뱅이무침5.6.13.<br/>배추김치9.13.<br/>사과쥬스5.13.<br/>바나나우유2.",
-          "ORPLC_INFO": "쌀 : 국내산<br/>김치류 : 국내산<br/>고춧가루(김치류) : 국내산<br/>쇠고기(종류) : 국내산(한우)<br/>돼지고기 : 국내산<br/>닭고기 : 국내산<br/>오리고기 : 국내산<br/>양고기 : 국내산<br/>쇠고기 식육가공품 : 국내산<br/>돼지고기 식육가공품 : 국내산<br/>닭고기 식육가공품 : 국내산<br/>오리고기 가공품 : 국내산<br/>양고기 식육가공품 : 국내산<br/>넙치 : 국내산<br/>조피볼락 : 국내산<br/>참돔 : 국내산<br/>미꾸라지 : 국내산<br/>뱀장어 : 국내산<br/>낙지 : 국내산<br/>명태 : 국내산<br/>고등어 : 국내산<br/>갈치 : 국내산<br/>오징어 : 국내산<br/>꽃게 : 국내산<br/>참조기 : 국내산<br/>두부 : 국내산<br/>콩 : 국내산",
-          "CAL_INFO": "628.7 Kcal",
-          "NTR_INFO": "탄수화물(g) : 70.3<br/>단백질(g) : 23.0<br/>지방(g) : 8.3<br/>비타민A(R.E) : 138.5<br/>티아민(mg) : 0.2<br/>리보플라빈(mg) : 0.6<br/>비타민C(mg) : 22.4<br/>칼슘(mg) : 172.9<br/>철분(mg) : 3.8",
-          "MLSV_FROM_YMD": "20200115",
-          "MLSV_TO_YMD": "20200115"
+          "ADMST_ZONE_NM": "서귀포시",
+          "ACA_INSTI_SC_NM": "교습소",
+          "ACA_ASNUM": "3000010316",
+          "ACA_NM": "Annie`sEnglish영어교습소",
+          "ESTBL_YMD": "20120831",
+          "REG_YMD": "20120831",
+          "REG_STTUS_NM": "개원",
+          "CAA_BEGIN_YMD": null,
+          "CAA_END_YMD": null,
+          "TOFOR_SMTOT": 54,
+          "DTM_RCPTN_ABLTY_NMPR_SMTOT": 9,
+          "REALM_SC_NM": "입시.검정 및 보습",
+          "LE_ORD_NM": "보통교과",
+          "LE_CRSE_LIST_NM": null,
+          "LE_CRSE_NM": "보습",
+          "PSNBY_THCC_CNTNT": null,
+          "THCC_OTHBC_YN": "Y",
+          "BRHS_ACA_YN": "N",
+          "FA_RDNZC": "63510",
+          "FA_RDNMA": "제주특별자치도 서귀포시 대정읍 신영로 130",
+          "FA_RDNDA": "(대정읍)",
+          "LOAD_DTM": "20220213"
         }
       ]
     }
